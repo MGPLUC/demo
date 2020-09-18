@@ -2,6 +2,6 @@
 testbestandje om te zien wat er gebeurt
 
 #Wijziging twee
-Eens zien wat er nu aan de hand is
+En weer een aanpassing door wat tekst te verwijderen deze keer
 
-This is bound to cause trouble!
+En nog een keer
